@@ -1,0 +1,52 @@
+.about-page {
+  margin-top: 70px;
+  
+}
+
+.about-page .about-content-box {
+  width: 100%;
+
+}
+
+.about-content-box .abt-title {
+  width: 100%;
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.abt-title .about {
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.abt-title .about i {
+  font-size: 16px;
+}
+
+.abt-desc {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.abt-txt {
+  width: 85%;
+  height: auto;
+  padding: 2rem;
+  font-family: Times New Roman;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  
+}
+
+#fcic {
+  color: blue;
+}
+
+.about-page .abt-desc .abt-txt p {
+  line-height: 150%;
+  font-size: 24px;
+  font-weight: 300;
+}

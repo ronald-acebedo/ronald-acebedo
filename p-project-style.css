@@ -1,0 +1,73 @@
+.proj-page {
+  margin-top: 70px;
+}
+
+.proj-page .proj-content-box {
+  width: 100%;
+
+}
+
+.proj-content-box .proj-title {
+  width: 100%;
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.proj-title .projects {
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.proj-title .projects i {
+  font-size: 16px;
+}
+
+.grid-page {
+  
+}
+
+.proj-grid-container {
+  width: 100%;
+  height: auto;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 15px;
+  row-gap: 50px;
+  
+  
+}
+
+.proj-grid-container .grid {
+  width: 350px;
+box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.grid1-title {
+  width: 100%;
+  background: black;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.grid1-desc {
+  padding: 10px 10px;
+  text-align: center;
+  line-height: 150%;
+  font-size: 18px;
+}
+
+.grid1-img {
+  width: 100%;
+  height: 250px;
+}
+
+.grid1-img .img-grd {
+  width: 100%;
+  height: 100%;
+}
